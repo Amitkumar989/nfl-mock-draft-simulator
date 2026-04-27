@@ -48,4 +48,4 @@ Navigate to `http://localhost:3000` to start drafting!
 
 ---
 
-Loom Walkthrough: [Watch the Demo](https://www.loom.com/share/3fae2aed9f6945bbbf0d822e174b3dff)
+Loom Walkthrough: [Watch the Demo](https://www.loom.com/share/fe8fb0f42da54e699ae2711d2e61e4ac)
